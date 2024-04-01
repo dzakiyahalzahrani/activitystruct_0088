@@ -72,3 +72,5 @@ int main() {
 }
 
 //struktur 3
+#include <iostream>
+using namespace std;
