@@ -74,3 +74,8 @@ int main() {
 //struktur 3
 #include <iostream>
 using namespace std;
+
+struct DetailAlamat {
+	string desa;
+	string kota;
+};
