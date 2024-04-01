@@ -71,3 +71,4 @@ int main() {
 
 }
 
+//struktur 3
