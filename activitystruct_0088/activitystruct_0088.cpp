@@ -31,4 +31,7 @@ int main() {
 }
 
 // struktur 2
+#include <iostream>
+using namespace std;
+
 
