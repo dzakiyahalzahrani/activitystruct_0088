@@ -113,3 +113,6 @@ int main() {
 	cout << "\n Umur : " << mhs.umur;
 
 }
+
+//struktur 4
+
